@@ -1,0 +1,6 @@
+me/renpeng/composite/service/CoreService2Hystrix.class
+me/renpeng/composite/service/CompositeServiceApplication.class
+me/renpeng/composite/service/CoreService1Client.class
+me/renpeng/composite/service/CoreService1Hystrix.class
+me/renpeng/composite/service/CalculationController.class
+me/renpeng/composite/service/CoreService2Client.class

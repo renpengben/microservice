@@ -1,0 +1,14 @@
+server:
+  port: 4000
+spring:
+  application:
+    name: config-server
+
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://git.oschina.net/renpengben/microservice-config.git
+          searchPaths: /
+          username: renpengben
+          password: renpeng301..

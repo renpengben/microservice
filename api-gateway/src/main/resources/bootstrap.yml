@@ -1,0 +1,10 @@
+server:
+  port: 7777
+spring:
+  application:
+    name: apigateway
+  cloud:
+    config:
+      profile: prod
+      label: master
+      uri: http://localhost:4000/

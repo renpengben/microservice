@@ -1,0 +1,17 @@
+#spring.application.name=core-service
+#server.port=5645
+#spring.rabbitmq.host=localhost
+#spring.sleuth.sampler.percentage=1.0
+#spring.sleuth.stream.enabled=true
+#spring.zipkin.baseUrl=http://localhost:9967
+#spring.zipkin.enabled=true
+#eureka.client.serviceUrl.defaultZone=http://127.0.0.1:1111/eureka/,http://127.0.0.1:1112/eureka/
+spring:
+  application:
+     name: core-service-2
+server:
+  port: 2002
+eureka:
+  client:
+    serviceUrl:
+       defaultZone: http://eureka-primary:1111/eureka/,http://eureka-secondary:1112/eureka/,http://eureka-tertiary:1113/eureka/

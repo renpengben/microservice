@@ -1,0 +1,6 @@
+/Users/renpeng/Documents/workspace/idea/microservice/composite-service/src/main/java/me/renpeng/composite/service/CompositeServiceApplication.java
+/Users/renpeng/Documents/workspace/idea/microservice/composite-service/src/main/java/me/renpeng/composite/service/CoreService2Client.java
+/Users/renpeng/Documents/workspace/idea/microservice/composite-service/src/main/java/me/renpeng/composite/service/CoreService1Hystrix.java
+/Users/renpeng/Documents/workspace/idea/microservice/composite-service/src/main/java/me/renpeng/composite/service/CalculationController.java
+/Users/renpeng/Documents/workspace/idea/microservice/composite-service/src/main/java/me/renpeng/composite/service/CoreService2Hystrix.java
+/Users/renpeng/Documents/workspace/idea/microservice/composite-service/src/main/java/me/renpeng/composite/service/CoreService1Client.java

@@ -1,0 +1,8 @@
+me/renpeng/api/service/ApiServiceController.class
+me/renpeng/api/service/CoreService1Client.class
+me/renpeng/api/service/CompositeServiceHystrix.class
+me/renpeng/api/service/CompositeServiceClient.class
+me/renpeng/api/service/CoreService2Hystrix.class
+me/renpeng/api/service/CoreService1Hystrix.class
+me/renpeng/api/service/ApiServiceApplication.class
+me/renpeng/api/service/CoreService2Client.class

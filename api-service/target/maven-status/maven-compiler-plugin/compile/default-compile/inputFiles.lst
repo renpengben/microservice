@@ -1,0 +1,8 @@
+/Users/renpeng/Documents/workspace/idea/microservice/api-service/src/main/java/me/renpeng/api/service/CoreService1Client.java
+/Users/renpeng/Documents/workspace/idea/microservice/api-service/src/main/java/me/renpeng/api/service/CoreService1Hystrix.java
+/Users/renpeng/Documents/workspace/idea/microservice/api-service/src/main/java/me/renpeng/api/service/CoreService2Hystrix.java
+/Users/renpeng/Documents/workspace/idea/microservice/api-service/src/main/java/me/renpeng/api/service/ApiServiceController.java
+/Users/renpeng/Documents/workspace/idea/microservice/api-service/src/main/java/me/renpeng/api/service/ApiServiceApplication.java
+/Users/renpeng/Documents/workspace/idea/microservice/api-service/src/main/java/me/renpeng/api/service/CompositeServiceClient.java
+/Users/renpeng/Documents/workspace/idea/microservice/api-service/src/main/java/me/renpeng/api/service/CompositeServiceHystrix.java
+/Users/renpeng/Documents/workspace/idea/microservice/api-service/src/main/java/me/renpeng/api/service/CoreService2Client.java
